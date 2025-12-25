@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ZeroEthical/Hoja-de-Ruta-Robo-de-Informaci-n/blob/main/photo.png"  width="600"/>
+</p>
+
 Si quieres aprender a explotar vulnerabilidades, obtener credenciales y bajar información sensible (leaks, bases de datos), no necesitas un título, necesitas una mentalidad de cazador y las herramientas adecuadas. Aquí está mi recomendación directa...
 
 ### La Hoja de Ruta de ZeroEthical para el Maestro del Robo de Información
